@@ -6,7 +6,7 @@ The project title is "Determinantes de las Expectativas de Inflación: Un Enfoqu
 
 There are two files:
 
-report.pdf : a paper-style report containing the main fininds of the project
+report_spanish.pdf : a paper-style report containing the main fininds of the project
 
 main.ipynb : a commented code of the training and test of the models
 
