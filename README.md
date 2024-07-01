@@ -1,4 +1,4 @@
-# inflation_expectations_machine_learning
+# Estimating Inflation Expectations with Machine Learning
 
 This is the final project for the 2024/1 version of the course EAE3709: Applications of Machine Learning in Economics at PUC-Chile.
 
